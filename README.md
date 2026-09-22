@@ -6,3 +6,6 @@ I find the article interesting because I feel like, especially in practical cour
 
 ## Comment from Alyssa Lai (AlyssaLai111)
 I hadn't heard the term "technical debt" before, and I also feel this is hardly discussed or studied in my courses, but reading this article helped me understand this issue was something that could be quite prevalent. For example, I heard many anecdotes online similar to the "Crumbling Under the Load" example in the article, and I hadn't known that was an example of technical debt, so I've actually heard quite a bit about it. 
+
+## Siyona's Thoughts (sg8504)
+As a programmmer in the age of AI, I am used to the term of "technical debt" in the sense of the debt caused by using AI to write entire codebases. This is because the generated code may work initially but contain unnecessary complexity, inconsistencies, bugs, or poor architecture. If developers do not fully understand or review the AI-generated code, future developers may spend more time fixing, refactoring, and maintaining it. Over time, this also makes the software harder and more expensive to change. But it was interesting to read non-AI related examples of technical debt given in this article.
